@@ -8,3 +8,4 @@
 /data/top2_real_title.csv
 /data/top3_fake_body.csv
 /data/top4_real_body.csv
+/data/svm_body_model.pki
